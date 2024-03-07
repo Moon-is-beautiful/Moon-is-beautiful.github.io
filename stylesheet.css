@@ -22,5 +22,5 @@ a:hover {
 .my-class {
     padding: 10px;
     margin: 20px;
-    border: 15px groovergb(220, 124, 29)k;
+    border: 15px groove rgb(220, 124, 29);
 }
