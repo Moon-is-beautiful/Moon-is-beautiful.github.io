@@ -3,16 +3,6 @@
     color: rgb(243, 195, 124);
 }
 
-/* Create a class and apply it to two elements */
-.my-class {
-    font-weight: bold;
-}
-
-/* Apply style to an element with an id */
-#my-id {
-    background-color: yellow;
-}
-
 /* Change color of <a> on hover */
 a:hover {
     color: red;
@@ -20,8 +10,14 @@ a:hover {
 
 /* Change box model properties */
 .my-class {
+    font-weight: bold;
     padding: 10px;
     margin: 20px;
     border-left: 5px solid deepblue;
     background-color: lightblue;
+}
+#mrFresh {
+    padding: 10px;
+    margin: 20px;
+    border-top: 5px solid rebeccapurple;
 }
