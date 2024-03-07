@@ -1,6 +1,6 @@
  /* CSS selector to apply style to h1 tag */
  h1 {
-    color: blue;
+    color: rgb(243, 195, 124);
 }
 
 /* Create a class and apply it to two elements */
@@ -22,4 +22,5 @@ a:hover {
 .my-class {
     padding: 10px;
     margin: 20px;
+    border: 15px groovergb(220, 124, 29)k;
 }
